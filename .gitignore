@@ -1,0 +1,17 @@
+node_modules
+.env
+.env.*
+!.env.example
+.claude/
+.svelte-kit
+build
+dist
+*.log
+*.csv
+*.xlsx
+
+# local build artefacts
+.next
+*.tsbuildinfo
+.DS_Store
+_private_backup*/
